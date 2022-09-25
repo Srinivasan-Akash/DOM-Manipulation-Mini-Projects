@@ -1,0 +1,1 @@
+document.querySelector(".cta--black").innerText = "Check Now"
